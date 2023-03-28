@@ -1,0 +1,18 @@
+{
+    "name": "bruno/plugin",
+    "autoload": {
+        "psr-4": {
+            "Bruno\\Plugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bruno Lima",
+            "email": "brunolimadevelopment@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "3.0"
+    }
+}
